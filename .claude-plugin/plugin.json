@@ -6,5 +6,8 @@
     "name": "cryst"
   },
   "license": "MIT",
-  "keywords": ["email", "gmail", "inbox", "organizer", "labels", "categories", "ai"]
+  "repository": "https://github.com/ayayame/email-organizer",
+  "keywords": ["email", "gmail", "inbox", "organizer", "labels", "categories", "ai"],
+  "skills": "./skills/",
+  "commands": "./commands/"
 }
