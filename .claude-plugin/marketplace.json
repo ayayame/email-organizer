@@ -1,0 +1,15 @@
+{
+  "name": "email-organizer",
+  "description": "AI-powered Gmail inbox organizer with smart categorization, labeling, and cleanup",
+  "owner": {
+    "name": "cryst"
+  },
+  "plugins": [
+    {
+      "name": "email-organizer",
+      "source": "./",
+      "description": "AI-powered Gmail inbox organizer that categorizes emails, applies labels, and suggests custom categories tailored to each user's inbox patterns.",
+      "version": "1.0.0"
+    }
+  ]
+}
