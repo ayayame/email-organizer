@@ -1,0 +1,28 @@
+{
+  "labelPrefix": "Organizer",
+  "mode": "ai-first",
+  "categories": [
+    {
+      "name": "Action Required",
+      "description": "Emails needing a response or action from me"
+    },
+    {
+      "name": "FYI",
+      "description": "Informational updates, no action needed"
+    },
+    {
+      "name": "Newsletters",
+      "description": "Subscriptions, promotions, marketing content"
+    },
+    {
+      "name": "Personal",
+      "description": "Friends, family, non-work communication"
+    },
+    {
+      "name": "Notifications",
+      "description": "Automated system notifications (GitHub, CI, alerts, etc.)"
+    }
+  ],
+  "customCategories": [],
+  "lastRunTimestamp": null
+}

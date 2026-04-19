@@ -1,0 +1,10 @@
+{
+  "name": "email-organizer",
+  "description": "AI-powered Gmail inbox organizer that categorizes emails, applies labels, and suggests custom categories tailored to each user's inbox patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cryst"
+  },
+  "license": "MIT",
+  "keywords": ["email", "gmail", "inbox", "organizer", "labels", "categories", "ai"]
+}
